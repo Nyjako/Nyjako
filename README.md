@@ -1,7 +1,7 @@
 ```javascript
 const Nyjako = {
     name: 'Kacper',
-    age: 22,
+    age: 23,
     location: 'Europe',
     readme: 'Full-stack developer',
     languages: [
