@@ -19,9 +19,14 @@ const Nyjako = {
     social: undefined
 };
 ```
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nyjako&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000"/>
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyjako&bg_color=00000000"/>
-</div>
+
+<table cellpadding="0" align="center">
+  <tr style="padding: 0">
+    <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Nyjako&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000"/>
+    </td>
+    <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyjako&bg_color=00000000"/>
+    </td>
+  </tr>
+</table>
