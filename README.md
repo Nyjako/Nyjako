@@ -3,7 +3,6 @@ const Nyjako = {
     name: 'Kacper',
     age: 23,
     location: 'Europe',
-    readme: 'Full-stack developer',
     languages: [
         'C++', 'C#', 'JavaScript', 'TypeScript', 
         'Python', 'CSS', 'HTML'
